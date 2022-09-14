@@ -13,10 +13,9 @@
 <blockquote>
 <p>不过因为之前博主没有了解到Markdown图片的引用方式，导致博客图片全部炸掉，博主会找个时间把它修改回来。</p>
 </blockquote>
-<h2 id="相关软工具件下载"><a href="#相关软工具件下载" class="headerlink" title="相关软工具件下载"></a>相关软工具件下载</h2><h3 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h3><p>先在官网上下载<strong>Node.js</strong>	<a href="http://nodejs.cn/download/">下载 | Node.js 中文网 (nodejs.cn)</a></p>
-<p><img data-src="C:/Users/Marical/AppData/Roaming/Typora/typora-user-images/image-20220913171949597.png" alt="image-20220913171949597"></p>
-<h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><p>然后下载<strong>git</strong>	<a href="https://git-scm.com/download/win">https://git-scm.com/download/win</a></p>
-<p><img data-src="C:/Users/Marical/AppData/Roaming/Typora/typora-user-images/image-20220913171103187.png" alt="image-20220913171103187"></p>
+<h2 id="相关软件工具下载"><a href="#相关软件工具下载" class="headerlink" title="相关软件工具下载"></a>相关软件工具下载</h2><h3 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h3><p>先在官网上下载<strong>Node.js</strong>	<a href="http://nodejs.cn/download/">下载 | Node.js 中文网 (nodejs.cn)</a></p>
+<p><img data-src="/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%8D%9A%E5%AE%A2/image-20220913171949597.png" alt="image-20220913171949597"></p>
+<h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><p><img data-src="/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%8D%9A%E5%AE%A2/image-20220913171103187.png" alt="image-20220913171103187"></p>
 <p>安装好后</p>
 <p>分别输入</p>
 <figure class="highlight crmsh"><table><tr><td class="code"><pre><span class="line"><span class="keyword">node</span> <span class="title">-v</span></span><br></pre></td></tr></table></figure>
