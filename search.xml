@@ -32,10 +32,6 @@
 <h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>确认好后，就可以安装我们的<strong>Hexo</strong>了,输入以下代码即可安装</p>
 <figure class="highlight avrasm"><table><tr><td class="code"><pre><span class="line">npm install hexo-<span class="keyword">cli</span> -g</span><br></pre></td></tr></table></figure>
 
-
-
-
-
 <hr>
 <h2 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h2><p>登录Github后</p>
 <p>点击左上角的<strong>New</strong></p>
@@ -285,11 +281,14 @@
       <categories>
         <category>技术</category>
       </categories>
+      <tags>
+        <tag>前端</tag>
+      </tags>
   </entry>
   <entry>
     <title>MySQL</title>
     <url>/posts/ff1c.html</url>
-    <content><![CDATA[<h1 id="MySQL"><a href="#MySQL" class="headerlink" title="MySQL"></a>MySQL</h1><h1 id="1、初识MySQL"><a href="#1、初识MySQL" class="headerlink" title="1、初识MySQL"></a>1、初识MySQL</h1><blockquote>
+    <content><![CDATA[<h1 id="MySQL入门教程"><a href="#MySQL入门教程" class="headerlink" title="MySQL入门教程"></a>MySQL入门教程</h1><h1 id="1、初识MySQL"><a href="#1、初识MySQL" class="headerlink" title="1、初识MySQL"></a>1、初识MySQL</h1><blockquote>
 <p>去年刚开始学java的时候，看的狂神老师的视频，现在整合一下之前做的笔记，发布出来供大家参考</p>
 </blockquote>
 <p>javaEE：企业级java开发 Web</p>
